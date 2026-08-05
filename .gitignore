@@ -1,0 +1,18 @@
+# Byte-compiled / virtual env
+__pycache__/
+.venv/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
