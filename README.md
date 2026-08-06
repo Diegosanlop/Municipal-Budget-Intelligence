@@ -1,6 +1,6 @@
 # Municipal Budget Intelligence
 
-A minimal starter project to explore municipal budget data, calculate variances, and build a simple Streamlit dashboard.
+Minimal starter project to visualize, explore , analyze, predict and calculate variances of big data budgets, and build a  Streamlit dashboard.
 
 Phase‑0 files included:
 
