@@ -42,10 +42,14 @@ phase 0
 
 1-2 months
 
+
+
 phase 1
 -Bring out new data sets
 -develop interactive visualization
 -Create reports and index for better data interpretation
+
+
 
 phase 2
 Amplify analitic capabilities to obtain better value and info from data
